@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="34.205">
+    <testcase classname="User request card" name="verify user details added successfully for card request" time="33.873">
+        <system-out>
+            <![CDATA[Given open card page........................................................passed
+And user accept cookies.....................................................passed
+When user clicks cartes american express....................................passed
+And user accept cookies.....................................................passed
+And user clicks en savoir plus under carte gold american express............passed
+And user clicks Demandez votre Carte........................................passed
+And user select gender......................................................passed
+And user enter first name...................................................passed
+And user enter last name....................................................passed
+And user enter date of borth................................................passed
+And user enter email address................................................passed
+And user select country code................................................passed
+And user enter mobile number................................................passed
+And user clicks submit......................................................passed
+And user confirm birth name same as current name............................passed
+And user enter place of birth...............................................passed
+And user select birth department............................................passed
+And user select country.....................................................passed
+And user select nationality.................................................passed
+And user select territory...................................................passed
+And user enter street name..................................................passed
+And user enter postal code..................................................passed
+And user enter city.........................................................passed
+And user select residental status...........................................passed
+And user clicks submit......................................................passed
+And user enter IBAN.........................................................passed
+And user enter swift code...................................................passed
+And user select bank seniority..............................................passed
+And user enter gross income.................................................passed
+And user select other income source.........................................passed
+And user select financial asset.............................................passed
+And user select professional................................................passed
+And user select Votre profession............................................passed
+And user enter SIREN no.....................................................passed
+And user enter employeer name...............................................passed
+And user select employement tenure..........................................passed
+And user clicks submit......................................................passed
+And user enter mother name..................................................passed
+And user enter pin code.....................................................passed
+And user enter confirm pin..................................................passed
+And user select email notification..........................................passed
+And user select sms notification............................................passed
+And user clicks submit......................................................passed
+Then user verify form completion status "Merci d'avoir complété le formulaire.".passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
